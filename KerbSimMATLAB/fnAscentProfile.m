@@ -4,7 +4,7 @@ function [ heading ] = fnAscentProfile( altitude,velocityY)%, turnParam1, turnPa
 
 
 
-
+% Right now, the profile is just straight up
 if velocityY < 100
     heading = 90;
 else
