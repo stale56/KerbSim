@@ -3,6 +3,7 @@ A KSP simulation for MATLAB that allows the user to optimize their launch profil
 This simulation makes several assumptions:
 
   -The rocket is a particle, with the only forces being:
+  
       >Gravity
 
       >Thrust
