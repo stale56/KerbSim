@@ -27,7 +27,7 @@ SMA                     = -gravParam/(2 * specificEnergy); % m
 
 specAngMom              = dist2center * orbitalVelocity * sin( atan( (surfaceVeloX + SiderealRotVelo) / surfaceVeloY));
 % Specific Angular Momentum. It's the cross product of the radius and
-% velocity. I seriously don't fucking know at this point. I got the
+% velocity. I got the
 % equation from wikipedia: https://en.wikipedia.org/wiki/Specific_relative_angular_momentum
 % The atan part gets the angle between the radius and velocity (which is
 % the same as the angle between the x and y components of the orbital
@@ -50,9 +50,7 @@ PEsurf                  = PEcent - bodyRadius; % m
 
 
 
-% Holy shit, I hope this works.
-% I just tested this in KSP by plugging in my stuff and checking
-% KER. Holy shit, it works.
+
 
 
 
