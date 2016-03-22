@@ -26,7 +26,7 @@ MODS REQUIRED TO USE THE ATTACHED VESSEL:
 
 kOS        ---This is just so you can program your own ascent profile to the craft, to compare the accuracy of my simulation
 
-RemoteTech ---I will probably make it so you don't need this over the weekend. I just need to remove one part antenna on the vessel.
+RemoteTech is optional. I have 2 craft files: one without any antenna, and one with an RT antenna.
 
 
 
@@ -40,7 +40,9 @@ I have this set up so you can easily change your desired ascent profile. Just ed
 
 
 
-If you want to try out the vessel for yourself, just move the craft file to your saves\GAMENAME\Ships\VAB folder
+If you want to try out the vessel for yourself, just move the KerbSimVessel(RT).craft file to your saves\GAMENAME\Ships\VAB folder.
+
+If you have RT, make sure you grab the one with RT in the title.
 
 
 
